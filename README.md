@@ -17,6 +17,8 @@ saite sober pefume e a beleza dese mundo
     </style>
 </head>
 <body>
+     <img src=""alt"">
+    <h2>
     <h1>Seu cheiro diz mais sobre você do que suas palavras</h1>
     <p>aromas mais modernos e frescos, enquanto uma butique de moda clássica</p><p>é uma mistura de substâncias, como óleos essenciais aromáticos, álcool e água</p>
 </body>
